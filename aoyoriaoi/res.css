@@ -1,0 +1,28 @@
+*{
+      margin: -6px;
+      margin-left: 6px;
+      padding: 0;
+}
+
+
+#about{
+      position: relative;
+}
+
+
+@media screen and (max-width:480px){
+2
+  /*画面幅が480pxまでなら、文字を青色にする*/
+3
+  #ex{
+      position: absolute;
+      padding-top: 200px;
+      margin-bottom: 100px;
+       }
+6
+}
+
+
+
+#member1 {
+}

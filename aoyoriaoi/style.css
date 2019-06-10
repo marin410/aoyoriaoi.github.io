@@ -1,0 +1,65 @@
+*{
+      margin: -6px;
+      margin-left: 6px;
+      padding: 0;
+/*      width: 100%;*/
+}
+
+
+#about{
+      position: relative;
+      
+}
+
+
+
+#ex{
+      position: absolute;
+      min-width: 400px;
+      width: 100%;
+      padding-top: 300px;
+      margin-bottom: 100px;
+      text-align: center;
+}
+
+
+ @media screen and (min-width:480px) and (max-width:599px) { 
+ 
+ #ex {
+      width: 50%;
+      position: absolute;
+      padding-top: 200px;
+      margin-bottom: 100px;
+       }
+}
+
+#info {
+	position: relative;
+}
+
+#playlist {
+      position: absolute;
+      top: 50%;
+      left: 20%;
+      margin: 0 auto;
+      float: left;
+      width: 100%;
+}
+
+#list {
+	  float: left;
+/*      padding-top: 5px;*/
+}
+
+
+#soon1{
+      width: 300px;
+      float: left;
+/*      margin-top: 2px;*/
+}
+
+#soon2{
+      width: 300px;
+      float: left;
+/*      padding-top: 20px;*/
+}
